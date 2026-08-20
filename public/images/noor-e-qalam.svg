@@ -1,0 +1,19 @@
+<svg width="800" height="450" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#18181b"/>
+      <stop offset="100%" style="stop-color:#09090b"/>
+    </linearGradient>
+    <linearGradient id="accent1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f59e0b"/>
+      <stop offset="100%" style="stop-color:#fbbf24"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="450" fill="url(#bg1)"/>
+  <rect x="100" y="100" width="600" height="250" rx="12" fill="none" stroke="url(#accent1)" stroke-width="2" opacity="0.3"/>
+  <text x="400" y="200" font-family="system-ui, sans-serif" font-size="28" font-weight="bold" fill="#fcd34d" text-anchor="middle">Noor-e-Qalam</text>
+  <text x="400" y="240" font-family="system-ui, sans-serif" font-size="16" fill="#a1a1aa" text-anchor="middle">Calligraphy Website</text>
+  <text x="400" y="280" font-family="system-ui, sans-serif" font-size="14" fill="#71717a" text-anchor="middle">Next.js / React / CSS</text>
+  <circle cx="400" cy="340" r="30" fill="none" stroke="#f59e0b" stroke-width="2" opacity="0.5"/>
+  <text x="400" y="345" font-family="system-ui, sans-serif" font-size="20" fill="#f59e0b" text-anchor="middle">🖋</text>
+</svg>
