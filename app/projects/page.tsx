@@ -218,7 +218,7 @@ export default function ProjectsPage() {
           </p>
 
           <a
-            href="YOUR_ASSIGNMENT_WEBSITE_LINK"
+            href="https://my-assignments-web-site-lnu247i1g-mantasha-noor.vercel.app/"
             target="_blank"
             rel="noopener noreferrer"
             className="mt-8 inline-block rounded-full border border-yellow-400 bg-yellow-400 px-8 py-3 font-semibold text-black transition hover:bg-transparent hover:text-yellow-400"
