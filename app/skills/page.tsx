@@ -79,6 +79,8 @@ export default function SkillsPage() {
   return (
     <main className="min-h-screen bg-black text-white">
 
+
+
       {/* Hero */}
       <section className="px-6 pb-16 pt-40 text-center">
 

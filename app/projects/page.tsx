@@ -39,64 +39,7 @@ export default function ProjectsPage() {
   return (
     <main className="min-h-screen bg-black text-white">
 
-      {/* Navbar */}
-      <nav className="fixed top-0 z-50 w-full border-b border-yellow-500/20 bg-black/90 backdrop-blur-md">
-        <div className="mx-auto flex max-w-7xl items-center justify-between px-6 py-5">
 
-          <Link
-            href="/"
-            className="text-xl font-bold tracking-widest text-yellow-400"
-          >
-            MANTASHA NOOR
-          </Link>
-
-          <div className="flex gap-5 text-sm">
-
-            <Link
-              href="/"
-              className="transition hover:text-yellow-400"
-            >
-              Home
-            </Link>
-
-            <Link
-              href="/About"
-              className="transition hover:text-yellow-400"
-            >
-              About
-            </Link>
-
-            <Link
-              href="/skills"
-              className="transition hover:text-yellow-400"
-            >
-              Skills
-            </Link>
-
-            <Link
-              href="/projects"
-              className="font-semibold text-yellow-400"
-            >
-              Projects
-            </Link>
-
-            <Link
-              href="/#services"
-              className="transition hover:text-yellow-400"
-            >
-              Services
-            </Link>
-
-            <Link
-              href="/#contact"
-              className="transition hover:text-yellow-400"
-            >
-              Contact
-            </Link>
-
-          </div>
-        </div>
-      </nav>
 
       {/* Hero */}
       <section className="px-6 pb-16 pt-40 text-center">
